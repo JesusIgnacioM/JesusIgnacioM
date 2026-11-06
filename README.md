@@ -6,8 +6,8 @@
 - 🛠️ Habilidades en desarrollo: Excel, análisis de datos y fundamentos de lógica de programación
 - 🎯 Mi objetivo es aplicar el análisis cuantitativo a la toma de decisiones económicas y ambientales.
 
-  ### 📬 Conectemos
-  - 💼 **LinkedIn:** [linkedin.com/in/jesus-ignacio-manzur-regalado/](https://www.linkedin.com/in/jesus-ignacio-manzur-regalado/)
+### 📬 Conectemos
+- 💼 **LinkedIn:** [linkedin.com/in/jesus-ignacio-manzur-regalado/](https://www.linkedin.com/in/jesus-ignacio-manzur-regalado/)
 <!--
 **JesusIgnacioM/JesusIgnacioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
