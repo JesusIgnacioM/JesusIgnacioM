@@ -4,7 +4,7 @@
 ### Sobre mí
 - Me interesa aprender a limpiar, analizar y visualizar bases de datos sobre emisiones de CO2, consumo energético, gestión ambiental y datos bursátiles.
 - Habilidades en desarrollo: Excel, análisis de datos y fundamentos de lógica de programación.
-- Mi objetivo es aplicar el análisis cuantitativo a la toma de decisiones económicas y ambientales, siempre teniendo en cuenta la sustentabilidad de estás y del medio ambiente.
+- Mi objetivo es aplicar el análisis cuantitativo a la toma de decisiones económicas y ambientales, al igual que crear sistemas para medir éstos.
 
 
 ### Conectemos y hablemos
