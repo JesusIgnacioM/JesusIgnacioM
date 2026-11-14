@@ -1,5 +1,5 @@
 # ¡Hola! Soy Jesús Manzur
-**Futuro estudiante de Economía** Estoy apasionado por la interacción entre los datos, los mercados financieros y la sostenibilidad ambiental.
+**Futuro estudiante de Economía** me encuentro inmensamente apasionado por la interacción entre los datos, los mercados financieros y la sostenibilidad ambiental.
 
 ### Sobre mí
 - Me interesa aprender a limpiar, analizar y visualizar bases de datos sobre emisiones de CO2, consumo energético, gestión ambiental y datos bursátiles.
