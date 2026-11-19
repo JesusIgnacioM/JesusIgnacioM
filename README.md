@@ -7,7 +7,7 @@
 - Mi objetivo es aplicar el análisis cuantitativo a la toma de decisiones económicas y ambientales, al igual que crear sistemas para medir éstos.
 
 
-### Conectemos y hablemos
+### Contact with me
 - **LinkedIn:** [linkedin.com/in/jesus-ignacio-manzur-regalado/](https://www.linkedin.com/in/jesus-ignacio-manzur-regalado/)
 <!--
 **JesusIgnacioM/JesusIgnacioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
