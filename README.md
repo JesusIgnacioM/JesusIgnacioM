@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jesús Manzur
+# Hello! I'm Jesús Manzur
 **Futuro estudiante de Economía** me encuentro inmensamente apasionado por la interacción entre los datos, los mercados financieros y la sostenibilidad ambiental.
 
 ### Sobre mí
