@@ -1,10 +1,11 @@
 # Hello! I am Jesús Manzur
-**Economy's student** I'm crazy about data and the kind of relationships that exists between the information and how we try to understand it.
+**Economy's student** 
+I'm crazy about data and the kind of relationships that exists between the information and how we try to understand it.
 
 ### About me
-- Me interesa aprender a limpiar, analizar y visualizar bases de datos sobre emisiones de CO2, consumo energético, gestión ambiental y datos bursátiles.
-- Habilidades en desarrollo: Excel, análisis de datos y fundamentos de lógica de programación.
-- Mi objetivo es aplicar el análisis cuantitativo a la toma de decisiones económicas y ambientales, al igual que crear sistemas para medir éstos.
+- I'm interesting in learning to clean and see databases about carbon emissions, energy, ecosystem and stock market.
+- Working skills: Excel, data's analysis and fundamentals' programs.
+- My aspiration is use the quantitative analysis to make economic decisions and environmental decisions, at the same time, it makes systems that help to measure these decisions.
 
 
 ### Contact with me
