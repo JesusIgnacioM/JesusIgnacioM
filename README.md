@@ -5,7 +5,7 @@ I'm crazy about data and the kind of relationships that exists between the infor
 ### About me
 - I'm interesting in learning to clean and see databases about carbon emissions, energy, Greenhouse Gas, ecosystem and stock market.
 - Working skills: Excel, SQL, data's analysis and fundamentals' programs.
-- My aspiration is use the quantitative analysis to make economic decisions and environmental decisions, at the same time, it makes systems that help to measure these decisions.
+- My aspiration is using quantitative analysis to make economic decisions and environmental decisions, at the same time, it makes systems that help to measure these decisions.
 
 
 ### Contact with me
